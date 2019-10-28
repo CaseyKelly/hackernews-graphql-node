@@ -1,3 +1,3 @@
 # hackernews-graphql-node
 
-Hackernews API clone using Graphql and Node
+Hackernews API clone using Graphql, Prisma and Node
